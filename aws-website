@@ -1,0 +1,25 @@
+https://aws.amazon.com/cn/route53/faqs/  DNS概念、Amazon Route 53 常见问题
+https://amazonaws-china.com/cn/free/   AWS 免费套餐
+https://amazonaws-china.com/cn/getting-started   开始使用AWS资源
+https://aws.amazon.com/cn/premiumsupport/knowledge-center/?ref=docs_gateway  知识中心
+http://aws.amazon.bokecc.com/   AWS 视频中心
+https://amazonaws-china.com/cn/architecture/icons/  AWS 架构图标和绘图工具
+https://amazonaws-china.com/cn/blogs/china/all/  官方博客
+https://amazonaws-china.com/cn/partners/find/    AWS 合作伙伴解决方案查找工具
+https://amazonaws-china.com/cn/edu/training     AWS培训与认证
+https://calculator.s3.amazonaws.com/index.html?lng=zh_CN#   AWS月度成本计算器
+https://awstcocalculator.com/   AWS TCO计算器
+https://docs.aws.amazon.com/zh_cn/general/latest/gr/rande.html  AWS区域和终端节点
+https://12factor.net/zh_cn/.  APP 设计12要素
+https://www.imooc.com/article/45708 .  WS Fargate – 无服务器化容器解决方案
+https://amazonaws-china.com/cn/blogs/aws/use-aws-transit-gateway-direct-connect-to-centralize-and-streamline-your-network-connectivity/   使用AWS Transit Gateway和Direct Connect集中并简化网络连接
+https://www.feitsui.com/zh-hans/cloud/aws  AWS全球各个Region的延迟测试链接（可以选择在延迟比较小的Region 建一个网络访问代理   用来访问其它延时比较大的区域）
+https://www.goclouds.cn/goclouds/page/datamagic/calculator/calculator.jsp   
+https://amazonaws-china.com/cn/blogs/china/aws-china-region-guide-series-terraform1/?nc1=b_rp   使用 Terraform 在 AWS 中国区域实现自动化部署指南系列
+https://docs.amazonaws.cn/AWSCloudFormation/latest/UserGuide/best-practices.html#organizingstacks  AWS CloudFormation 最佳实践
+http://aws.amazon.bokecc.com/news/show-1092.html   aws EKS视频
+https://docs.aws.amazon.com/zh_cn/sdk-for-javascript/v2/developer-guide/using-lambda-functions.html   教程：创建和使用 Lambda 函数
+https://aws.amazon.com/ec2/instance-types/
+https://docs.aws.amazon.com/zh_cn/elasticsearch-service/latest/developerguide/es-aws-integrations.html   将流数据加载到 Amazon Elasticsearch Service
+https://docs.aws.amazon.com/zh_cn/awscloudtrail/latest/userguide/send-cloudtrail-events-to-cloudwatch-logs.html   将事件发送到 CloudWatch Logs
+http://search-sa-log-solutions.s3-us-east-2.amazonaws.com/logstash/html/Lab_Guide_ABD326.html  Amazon Elasticsearch Service实验室资料 
